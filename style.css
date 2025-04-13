@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(135deg, #c3ecff, #e3f9ff);
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#weatherResult p {
+  margin: 0.25rem 0;
+}
